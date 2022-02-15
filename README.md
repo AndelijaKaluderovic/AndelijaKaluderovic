@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio 👩‍💻](https://andelijakaluderovic.github.io/portfolio/)
 
-- 🌱 I’m currently learning: **Next.js, TypeScript..**
+- 🌱 I’m currently learning: **Next.js**
 
 - 📫 How to reach me: **andeka011@gmail.com**
 
