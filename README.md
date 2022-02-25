@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio 👩‍💻](https://andelijakaluderovic.github.io/portfolio/)
 
-- 🌱 I’m currently learning: **Next.js**
+- 🌱 I’m currently learning: [Golang](https://www.freecodecamp.org/news/what-is-go-programming-language/)
 
 - 📫 How to reach me: **andeka011@gmail.com**
 
