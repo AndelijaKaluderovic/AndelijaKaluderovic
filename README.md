@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio 👩‍💻](https://andelijakaluderovic.github.io/portfolio/)
 
-- 🌱 I’m currently learning: [Typescript]([https://www.freecodecamp.org/news/what-is-go-programming-language/](https://www.typescriptlang.org/))
+- 🌱 I’m currently learning: [Typescript](https://www.typescriptlang.org/)
 
 - 📫 How to reach me: **andeka011@gmail.com**
 
